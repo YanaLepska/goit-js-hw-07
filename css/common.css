@@ -80,7 +80,7 @@ img {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  /* padding: 100px 156px; */
+  padding: 100px 156px;
   gap: 48px 24px;
 }
 
